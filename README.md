@@ -9,14 +9,6 @@ criando sistemas eficientes, escaláveis e bem estruturados.
 
 ---
 
-## 🧠 Especialidades
-
-- Desenvolvimento de APIs  
-- Aplicações web modernas  
-- Integração entre frontend e backend  
-
----
-
 ## 💻 Tecnologias
 
 <div >
@@ -24,10 +16,3 @@ criando sistemas eficientes, escaláveis e bem estruturados.
 <img src="https://skillicons.dev/icons?i=java,python,cs,mysql,react,tailwind,git" />
 
 </div>
-
----
-
-## 🚀 Atualmente
-
-- Aprimorando conhecimentos em desenvolvimento backend  
-- Evoluindo na construção de aplicações completas (Full Stack)  
