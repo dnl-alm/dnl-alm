@@ -4,7 +4,7 @@
 
 ## ⚡ Sobre Mim
 
-Desenvolvedor Full Stack com foco na construção de APIs,  
+Desenvolvedor Full Stack com foco em backend,  
 criando sistemas eficientes, escaláveis e bem estruturados.
 
 ---
