@@ -2,7 +2,7 @@
 
 ---
 
-## ⚡ Sobre Mim
+## Sobre Mim
 
 Desenvolvedor Full Stack com foco em backend,  
 criando sistemas eficientes, escaláveis e bem estruturados.
