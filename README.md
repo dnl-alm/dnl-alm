@@ -13,7 +13,7 @@ criando sistemas eficientes, escaláveis e bem estruturados.
 
 <div >
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,javascript,typescript,spring,react,git,docker,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,javascript,typescript,spring,react,git,github,docker,mysql,postgres" />
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
     width="48px"
