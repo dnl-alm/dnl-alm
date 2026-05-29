@@ -1,4 +1,4 @@
-<h1 ><strong>👨‍💻Daniel Almeida</strong></h1>
+<h1 ><strong>Daniel Almeida</strong></h1>
 
 ---
 
@@ -9,15 +9,11 @@ criando sistemas eficientes, escaláveis e bem estruturados.
 
 ---
 
-## 💻 Tecnologias
+##  Tecnologias
 
 <div >
 
 <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,typescript,spring,react,git,github,docker,mysql,postgres" />
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
-    width="48px"
-  />
 
 </div>
 
