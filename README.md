@@ -21,8 +21,8 @@ sistemas eficientes, escaláveis e bem estruturados.
 ### Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,mongodb&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,typescript,react,python&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,azure&theme=dark" />
 </p>
 
 ---
