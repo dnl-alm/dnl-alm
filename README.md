@@ -24,12 +24,3 @@ sistemas eficientes, escaláveis e bem estruturados.
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,typescript,react,python&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,azure&theme=dark" />
 </p>
-
----
-
-###  
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dnl-alm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnl-alm&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
